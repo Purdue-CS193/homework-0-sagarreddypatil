@@ -1,8 +1,7 @@
-# Sagar's Website
+# Sagar's First CS193 Homework
 
-Hello, welcome to me website. It has:
-## Subheadings
-### Subheading's subheadings
-#### Subheading's subheading's subheadings
-##### Subheading's subheading's subheading's subheadings
-###### Subheading's subheading's subheading's subheading's subheadings
+My favorite things about this course:
+ - The CS
+ - The 193
+ - Nice lectures
+ - The content of the lectures
